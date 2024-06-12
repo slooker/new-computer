@@ -24,5 +24,5 @@ Install powerline fonts for oh my zsh
 * Linux - https://github.com/powerline/fonts
 
 Change shell to ZSH
-`chsh -s $(which zsh)`
+* `chsh -s $(which zsh)`
 
