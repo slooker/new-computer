@@ -16,14 +16,12 @@
 * [slack](https://slack.com/downloads/osx)
 
 Install ZSH (default on mac and apt-get on ubuntu) and [Oh My Zsh](https://ohmyz.sh/#install)
-`sudo apt-get install zsh`
-`sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
-
-
+* `sudo apt-get install zsh`
+* `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
 
 Install powerline fonts for oh my zsh
-Windows - https://slmeng.medium.com/how-to-install-powerline-fonts-in-windows-b2eedecace58
-Linux - https://github.com/powerline/fonts
+* Windows - https://slmeng.medium.com/how-to-install-powerline-fonts-in-windows-b2eedecace58
+* Linux - https://github.com/powerline/fonts
 
 Change shell to ZSH
 `chsh -s $(which zsh)`
