@@ -26,3 +26,5 @@ Install powerline fonts for oh my zsh
 Change shell to ZSH
 * `chsh -s $(which zsh)`
 
+Be sure to right click the WSL/Terminal/Whatever window and choose a font that is a Powerline font you just installed, like "Deja Vu Mono" 
+
