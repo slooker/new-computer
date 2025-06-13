@@ -1,11 +1,10 @@
 ### Packages to install ###
 * [Cinch](http://www.irradiatedsoftware.com/cinch/)
-* [Alfred](https://www.alfredapp.com/)
 * [Chrome](https://www.google.com/chrome/)
-* [Dropbox](https://www.dropbox.com/downloading)
 * [VS Code](https://code.visualstudio.com/download)
 * [Insomnia Rest Client](https://insomnia.rest/download/)
 * [1Password 6.x](https://1password.com/downloads/)
+* [Raycast](https://www.raycast.com/) - better command+space replacement for mac
 * Brew
   * `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"` (Go to http://brew.sh for newest instructions)
 * Golang (brew install go)
