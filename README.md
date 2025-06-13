@@ -14,7 +14,8 @@
 * yarn
   * `brew install yarn`
 * [slack](https://slack.com/downloads/osx)
-
+* [Orbstack](https://orbstack.dev/download)
+  * replaces Docker Desktop
 Install ZSH (default on mac and apt-get on ubuntu) and [Oh My Zsh](https://ohmyz.sh/#install)
 * `sudo apt-get install zsh`
 * `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
@@ -41,3 +42,5 @@ Install VSCode Extensions:
 * Docker
 * Prettier
 * Solarized Theme
+
+
