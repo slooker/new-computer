@@ -31,7 +31,7 @@ Be sure to right click the WSL/Terminal/Whatever window and choose a font that i
 Install Solarized theme for iterm
 * https://ethanschoonover.com/solarized/
 
-Install VSCode Plugins:
+Install VSCode Extensions:
 * ESLint
 * Prettier
 * GitHub Copilot
@@ -40,3 +40,4 @@ Install VSCode Plugins:
 * Container Tools
 * Docker
 * Prettier
+* Solarized Theme
