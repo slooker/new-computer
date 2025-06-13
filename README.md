@@ -28,3 +28,15 @@ Change shell to ZSH
 
 Be sure to right click the WSL/Terminal/Whatever window and choose a font that is a Powerline font you just installed, like "Deja Vu Mono" 
 
+Install Solarized theme for iterm
+* https://ethanschoonover.com/solarized/
+
+Install VSCode Plugins:
+* ESLint
+* Prettier
+* GitHub Copilot
+* GitHub Copilot Chat
+* Jupyter
+* Container Tools
+* Docker
+* Prettier
